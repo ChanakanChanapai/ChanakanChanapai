@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chanakan Chanakan</h1>
 <h3 align="center">A computer science students</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:66025627@up.ac.th </h3>
 <p align="left">
 </p>
 
