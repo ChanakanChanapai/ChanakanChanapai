@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is CHANAKAN CHANAPAI
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is CHANAKAN
 =========================================================================================================================================
 
 A computer science students.
 ----------------------------
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [66025627@up.ac.th](mailto:66025627@up.ac.th)
+* ✉️  You can contact me at [chanakanchanapai01@gmail.com](chanakanchanapai01@gmail.com)
 
 <a href="https://www.github.com/chanakanchanapai" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/chanakanchanapai?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
